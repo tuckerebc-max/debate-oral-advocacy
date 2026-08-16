@@ -1,0 +1,22 @@
+{
+  ".gitattributes": "613f2c996ac75349a4a6633c4b81a75d436ef7b7fed323a5e1929f2ec5a8b1da",
+  ".github/workflows/validate.yml": "e0846a41eb3a3414c0516b18fcd9948b3b57c9ff62d8c8023126b0382e1d4d3c",
+  ".gitignore": "2aa07deaa03ee2e95303fba7ba2692db3cfbb491bdbdbeebd50f87efb75efe2a",
+  "agents/openai.yaml": "aeb608cfbfbb0b27edd7bd087912537713b9600121b430ce7c8b203242e39526",
+  "catalog/finalization-report.json": "5f1ef623a14f26c94505b648ac55a01a9bb26b9e95088009e7d0b39e07687873",
+  "catalog/handoff-route-registry.json": "9052736c8647bc18e209777b26d66dcf311f78c3e6c30efbf049e5ba7dc9a939",
+  "catalog/private-v1-release-status.json": "401cf7d442d9f8514b16dc226c3ad0ba47db042f42d7069099119cc0bca3f7d8",
+  "catalog/release-manifest.json": "57974ac4589900394a133278bdab829d48080a2881135a0c9021388c17d6ba54",
+  "catalog/skill-catalog.json": "06c875a0dee7f5e5f3d03d75db606d119b90bf11560574e3290d6bcc0638380f",
+  "catalog/source-manifest.json": "e8b9146384d8490b60a34bf7121baa1a5d260e31270b4e4a89e90284aa91d16e",
+  "README.md": "ad6b639e519fc9387285eaa3fbde415ddfcce48fdd732849ea777c92c06380da",
+  "references/construct-and-source-ledger.md": "2f9fd5aec90642ee77232e8618340867b00f8eab3e5cfeb33024bcd785a96bdc",
+  "references/evaluation-fixtures.json": "d56a5a0779f4cb05275261fb6ddb76f9daf49bc5a5c506bc7f01647972e6fde9",
+  "references/output-schema.json": "4c2191c066353cdacf20ce677b74a8246aee63f10eb1aaf5e56cd87b628f5f51",
+  "scripts/build_release_manifest.py": "3095062c103bc8f3a481b78f800342f32f023b52499e98d10396e89bdd73b529",
+  "scripts/evaluate_package.py": "9356aaca0da247af8108c669f6e3793389f849f4b267559e6db09ba51a1106a3",
+  "scripts/validate_repository.py": "f129c4292cd15c540e3460f8cc0873e3c80c50ae2917d1a0ddcfd62cfea8539e",
+  "shared/schemas/interoperability-artifact-envelope.schema.json": "33be653aad470eec23b9858fa397c794cc11954fdc558d22631aa89635ba7139",
+  "SKILL.md": "737e8948336a6298946a4142ad7f08d2a4f80fcecbca09855bfd9253cacda62e",
+  "tests/fixtures/representative-record.json": "3706c3f4c14dcb087a33fb1ef999da426468aefeff45921c6b9189f194fabffe"
+}

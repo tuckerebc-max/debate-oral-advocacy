@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Debate and Oral Advocacy Artifact",
+  "type": "object",
+  "required": ["artifact_id", "status", "format_contract", "motion", "case_map", "next_action"],
+  "properties": {
+    "artifact_id": {"type": "string"}, "status": {"type": "string"}, "format_contract": {"type": "object"},
+    "motion": {"type": "string"}, "burdens": {"type": "array"}, "case_map": {"type": "array"},
+    "flow": {"type": "array"}, "clash": {"type": "array"}, "rebuttal": {"type": "array"},
+    "weighing": {"type": "array"}, "procedural_log": {"type": "array"}, "ballot_analysis": {"type": "object"},
+    "accessibility_notes": {"type": "array"}, "next_action": {"type": "string"}
+  },
+  "additionalProperties": true
+}

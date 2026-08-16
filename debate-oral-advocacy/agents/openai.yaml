@@ -1,0 +1,7 @@
+interface:
+  display_name: "Debate and Oral Advocacy"
+  short_description: "Build format-bound advocacy and rebuttal"
+  default_prompt: "Use $debate-oral-advocacy to build a format contract, case map, clash flow, and rebuttal plan."
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,10 @@
+{
+  "skill_id": "EXP-DEBATE",
+  "fixtures": [{
+    "id": "DEBATE-FIX-001",
+    "task": "Run a fictional parliamentary round with a declared motion, speech order, burden, evidence packet, and a strongest-opponent rebuttal.",
+    "expected": ["format contract", "burden", "case map", "flow/clash", "proportionate rebuttal", "weighing", "procedural log"],
+    "critical_failures": ["format omitted", "invented rule", "unattributed evidence", "win treated as reasoning proof"]
+  }]
+}
+
